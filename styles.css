@@ -2,10 +2,24 @@
   height: 100%!important;
 }
 
+.pnd-card {
+  border: solid pink 3px!important;
+  border-radius: 15px!important;
+}
+
 .hide {
   display: none;
 }
 
+#generator {
+  border-radius: 100px!important;
+  box-shadow: 0px 10px 10px pink;
+}
+
+#youtube {
+  border-radius: 100px!important;
+  box-shadow: 0px 10px 10px #ffebef;
+}
 .show {
   display: inline-block;
 }
